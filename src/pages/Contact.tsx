@@ -55,21 +55,21 @@ export default function Contact() {
                 <Phone className="h-6 w-6 text-white" />
                 <div>
                   <p className="font-semibold text-white">Phone</p>
-                  <p className="text-gray-300">+1 (555) 123-4567</p>
+                  <p className="text-gray-300">+250 788 123 456</p>
                 </div>
               </div>
               <div className="flex items-center space-x-4">
                 <Mail className="h-6 w-6 text-white" />
                 <div>
                   <p className="font-semibold text-white">Email</p>
-                  <p className="text-gray-300">info@eliteweddings.com</p>
+                  <p className="text-gray-300">dushimimanaspeciosa@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-center space-x-4">
                 <MapPin className="h-6 w-6 text-white" />
                 <div>
                   <p className="font-semibold text-white">Location</p>
-                  <p className="text-gray-300">New York, NY</p>
+                  <p className="text-gray-300">Gisenyi developed by fide dev</p>
                 </div>
               </div>
             </div>

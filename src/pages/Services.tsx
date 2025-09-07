@@ -7,19 +7,19 @@ export default function Services() {
       icon: Calendar,
       title: 'Wedding Decoration',
       description: 'Complete venue decoration with flowers, lighting, and elegant setup.',
-      price: 'Starting from $2,500'
+      price: 'Starting from fwf$700'
     },
     {
       icon: ShoppingBag,
       title: 'Wedding Dresses',
       description: 'Premium collection of wedding dresses for your special day.',
-      price: 'Starting from $800'
+      price: 'Starting from rwf800k'
     },
     {
       icon: Star,
       title: 'Suits Rental',
       description: 'Designer suits and formal wear rental for grooms and wedding party.',
-      price: 'Starting from $200'
+      price: 'Starting from rwf15k'
     }
   ];
 
